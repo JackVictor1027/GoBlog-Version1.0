@@ -1,0 +1,18 @@
+[viewer]
+    Title = "Go语言开发简单博客"
+    Description = "Web开发项目实战1"
+    Logo = "/resource/images/logo.jpg"
+    Navigation = ["首页","/", "GO语言","/golang", "归档","/pigeonhole", "关于","/about"]
+    Bilibili = "https://space.bilibili.com/1068478252?spm_id_from=333.1007.0.0"
+    Zhihu = "https://juejin.cn/user/136789342829693"
+    Avatar = "https://img1.imgtp.com/2023/08/13/yHbLR4Qs.jpg"
+    UserName = "锦先生"
+    UserDesc = "忠于理想，直面现实"
+[system]
+    CdnURL = "https://github.com/JackVictor1027"
+    QiniuAccessKey = "替换自己的"
+    QiniuSecretKey = "替换自己的"
+    Valine = true
+    ValineAppid = "替换自己的"
+    ValineAppkey = "替换自己的"
+    ValineServerURL = "替换自己的"
